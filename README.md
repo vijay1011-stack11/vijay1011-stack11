@@ -1,4 +1,4 @@
-# Hi, I'm Vijayabalaguroo 👋
+# Hi, I'm Vijayabalaguroo 
 
 **Making ML models small enough to run where the cloud can't reach.**
 
